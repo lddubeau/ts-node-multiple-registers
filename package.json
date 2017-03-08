@@ -1,0 +1,25 @@
+{
+  "name": "ts-node-multiple-registers",
+  "version": "1.0.0",
+  "description": "Example of an issue with ts-node's registration performed multiple times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lddubeau/ts-node-multiple-registers.git"
+  },
+  "author": "Louis-Dominique Dubeau <ldd@lddubeau.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lddubeau/ts-node-multiple-registers/issues"
+  },
+  "homepage": "https://github.com/lddubeau/ts-node-multiple-registers#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "karma": "^1.5.0",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.2.1"
+  }
+}
